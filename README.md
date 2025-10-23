@@ -215,6 +215,10 @@ mvn spring-boot:run
 
 
 ## Lisans
-Bu proje Codenight Case sunumu için hazırlanmıştır.
+---
+© 2025 Sema Şahinbay – Turkcell Code Night /Case 4  
+Bu proje yalnızca değerlendirme ve eğitim amaçlıdır.
+
+---
 
 
